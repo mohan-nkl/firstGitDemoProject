@@ -1,0 +1,2 @@
+This is the third file in the git demo project.
+We will learn how to merge this branch with the master branch.
