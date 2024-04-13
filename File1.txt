@@ -1,1 +1,2 @@
-This is the first file in the git demo project.
+This is the first file in the git demo project. 
+We are about to learn git branching, merging.
